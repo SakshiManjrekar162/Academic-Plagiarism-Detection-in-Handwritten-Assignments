@@ -1,12 +1,14 @@
 
-# Plagio: An OCR enabled Plagiarism Checker
-With the spread of the COVID-19 pandemic, the world is observing a shift in the paradigm of the system of education as more institutions adopt online and cloud-based systems of teaching and evaluation. However, this change comes with its pitfalls, one of the most prominent being the inability to check for plagiarism effectively in answer sheets, especially if it is handwritten. Our proposed software involves an Optical Character Recognition (OCR) system that can extract textual data from scanned images of pages with handwritten information on them. Then the extracted data is checked for plagiarism against a database of approximately 130 trillion web pages, and a final report is generated.
-
-## Flow of Data
-There are 3 main modules to the project:
- 1. OCR Module
- 2. Plagiarism Checker Module
- 3. Website
+An OCR enabled Plagiarism Checker
+Plagio: An OCR-Enabled Plagiarism Checker
+With the rise of the COVID-19 pandemic, the education system has undergone a significant transformation, shifting towards online and cloud-based teaching and evaluation methods. However, this transition has introduced several challenges, one of the major ones being the difficulty in detecting plagiarism in handwritten answer sheets.
+To address this issue, we propose a software solution that integrates an Optical Character Recognition (OCR) system capable of extracting text from scanned images of handwritten documents. Once the text is digitized, it is analyzed for plagiarism by comparing it against a vast database of approximately 130 trillion web pages. The system then generates a comprehensive plagiarism report.
+Data Flow Overview
+The project consists of three primary modules:
+OCR Module
+Plagiarism Checker Module
+Website Interface
+The internal data flow between these components is illustrated in the block diagram below.
  
 And the internal data flow is depicted by the following block diagram.
 <p align="center">
