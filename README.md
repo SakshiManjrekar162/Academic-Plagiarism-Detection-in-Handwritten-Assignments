@@ -17,7 +17,7 @@ And the internal data flow is depicted by the following block diagram.
 
 ## How to set up
 
- 1. Clone the repository using `git clone https://github.com/DebadityaPal/PlagiarismChecker`
+ 1. Clone the repository using `https://github.com/SakshiManjrekar162/Academic-Plagiarism-Detection-in-Handwritten-Assignments.git`
  2. Move into the directory using `cd PlagiarismChecker`
  3. Install all dependencies for the backend using `pip install -r requirements.txt`
  4. Move into the frontend folder using `cd frontend`
