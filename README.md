@@ -9,6 +9,8 @@ OCR Module
 Plagiarism Checker Module
 Website Interface
 The internal data flow between these components is illustrated in the block diagram below.
+Published a research paper for the same : 
+<a>https://zenodo.org/records/13801226</a>
  
 And the internal data flow is depicted by the following block diagram.
 <p align="center">
