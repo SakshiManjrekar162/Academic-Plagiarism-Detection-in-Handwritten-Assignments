@@ -14,6 +14,10 @@ And the internal data flow is depicted by the following block diagram.
 <p align="center">
   <img src="https://github.com/SakshiManjrekar162/Academic-Plagiarism-Detection-in-Handwritten-Assignments/blob/main/frontend/src/assets/Plagiarism%20detection%20diagram.jpg" width="600"/>
 </p>
+The flow of the level wise processing is as follows.
+<p align="center">
+ <img src="https://github.com/SakshiManjrekar162/Academic-Plagiarism-Detection-in-Handwritten-Assignments/blob/main/frontend/src/assets/Flowchart.jpg" width="600"/>
+ </p>
 
 ## How to set up
 
