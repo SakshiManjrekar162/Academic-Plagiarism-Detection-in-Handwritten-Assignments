@@ -12,7 +12,7 @@ The internal data flow between these components is illustrated in the block diag
  
 And the internal data flow is depicted by the following block diagram.
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1TO8rb0G6O5YKRLGn82PyfzScsiVyM19C" width="600"/>
+  <img src="https://github.com/SakshiManjrekar162/Academic-Plagiarism-Detection-in-Handwritten-Assignments/blob/main/frontend/src/assets/Plagiarism%20detection%20diagram.jpg" width="600"/>
 </p>
 
 ## How to set up
